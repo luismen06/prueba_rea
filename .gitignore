@@ -1,0 +1,10 @@
+# Build outputs
+game/build/
+
+# Binario de análisis (contenido de terceros, NO redistribuir)
+gta_sa_analysis/
+
+# Editor / sistema
+.vscode/
+*.user
+Thumbs.db
